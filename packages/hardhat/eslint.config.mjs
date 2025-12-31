@@ -33,7 +33,7 @@ export default defineConfig([
       "@typescript-eslint/no-unused-vars": "error",
       "@typescript-eslint/no-explicit-any": "off",
       "@typescript-eslint/no-unused-vars": "warn",
-      "@typescript-eslint/no-unused-expressions",
+      "@typescript-eslint/no-unused-expressions": "expressions",
       "prettier/prettier": [
         "warn",
         {
